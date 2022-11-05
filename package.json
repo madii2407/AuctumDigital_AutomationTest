@@ -1,0 +1,28 @@
+{
+  "name": "auctumdigital_automationtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": { 
+  "@badeball/cypress-cucumber-preprocessor": "latest",
+  "@cypress/webpack-preprocessor": "latest",
+  "cypress": "latest",
+  "ts-loader": "latest",
+  "typescript": "latest" 
+},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madii2407/AuctumDigital_AutomationTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madii2407/AuctumDigital_AutomationTest/issues"
+  },
+  "homepage": "https://github.com/madii2407/AuctumDigital_AutomationTest#readme"
+  
+}
